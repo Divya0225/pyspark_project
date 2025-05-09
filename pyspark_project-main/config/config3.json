@@ -1,0 +1,6 @@
+{
+    "source_path" : "/Users/bharath/Desktop/workspace/pyspark_json/data/ecommerce.parquet", 
+    "source_type" : "parquet",
+    "schema" : "Customer ID LONG,Age LONG,Gender STRING,Location STRING,Annual Income LONG",
+    "header" : "Customer ID, Age, Gender, Location, Annual Income"
+}

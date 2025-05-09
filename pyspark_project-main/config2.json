@@ -1,0 +1,5 @@
+{
+    "source_path" : "/Users/bharath/Desktop/workspace/pyspark_json/data/ecommerce.json", 
+    "source_type" : "json",
+    "schema" : "Customer ID INT,Age INT,Gender STRING,Location STRING,Annual Income INT"
+}

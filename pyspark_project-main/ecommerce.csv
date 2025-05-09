@@ -1,0 +1,20 @@
+Customer ID,Age,Gender,Location,Annual Income
+1001,25,Female,City D,45000
+1001,28,Female,City D,52000
+1001,28,Female,City D,65000
+1001,45,Female,City D,70000
+1002,34,Male,City E,45000
+1003,56,Other,City F,90000
+1004,29,Female,City G,60000
+1005,42,Male,City H,75000
+1006,51,Other,City I,85000
+1007,36,Female,City J,55000
+1008,48,Male,City K,80000
+1009,25,Other,City L,40000
+1001,45,Female,City D,75000
+1002,32,Male,City A,50000
+1003,60,Other,City B,80000
+1004,28,Female,City C,45000
+1005,55,Male,City E,90000
+1006,38,Female,City F,65000
+1007,42,Male,City G,70000

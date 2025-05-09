@@ -1,0 +1,7 @@
+{
+    "source_path" : "/Users/bharath/Desktop/workspace/pyspark_json/data/email.parquet", 
+    "source_type" : "parquet",
+    "schema" : "Login email STRING, Identifier LONG, First name STRING, Last name STRING",
+    "header" : "Login email, Identifier, First name, Last name",
+    "table_name" : "email"
+}    

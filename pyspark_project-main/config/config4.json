@@ -1,0 +1,7 @@
+{
+    "source_path" : "/Users/bharath/Desktop/workspace/pyspark_json/data/country.csv", 
+    "source_type" : "csv",
+    "schema" : "Name STRING, Code STRING",
+    "header" : "Name, Code",
+    "table_name" : "country"
+}    

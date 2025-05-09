@@ -1,0 +1,7 @@
+{
+    "source_path" : "/Users/bharath/Desktop/workspace/pyspark_json/data/email.csv", 
+    "source_type" : "csv",
+    "schema" : "Login email STRING, Identifier INT, First name STRING, Last name STRING",
+    "header" : "Login email, Identifier, First name, Last name",
+    "table_name" : "email"
+}    
